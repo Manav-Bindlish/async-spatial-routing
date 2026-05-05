@@ -233,4 +233,4 @@ int main() {
 
 ## Licence
 
-MIT — © NITI Aayog Smart Mobility Platform Contributors
+MIT — © NITI Aayog Smart Mobility Platform Contributors 
